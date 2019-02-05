@@ -1,0 +1,9 @@
+CREATE TABLE `article`
+(
+  `id` int
+(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar
+(200) DEFAULT NULL,
+  PRIMARY KEY
+(`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=57 DEFAULT CHARSET=utf8;
